@@ -1,0 +1,13 @@
+from distutils.core import setup
+import setuptools
+setup(
+    name='pure',
+    version='1.1.5',
+    description='芷琦哥的回测框架',
+    author='chenzongwei',
+    author_email='17695480342@163.com',
+    py_modules=['pure_ocean_breeze'],
+    url='https://github.com/chen-001/pure_ocean_breeze.git',
+    license='2FA',
+    packages=setuptools.find_packages()
+)

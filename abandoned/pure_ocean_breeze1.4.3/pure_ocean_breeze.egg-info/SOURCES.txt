@@ -1,0 +1,8 @@
+LICENSE
+setup.py
+pure_ocean_breeze/initialize.py
+pure_ocean_breeze/pure_ocean_breeze.py
+pure_ocean_breeze.egg-info/PKG-INFO
+pure_ocean_breeze.egg-info/SOURCES.txt
+pure_ocean_breeze.egg-info/dependency_links.txt
+pure_ocean_breeze.egg-info/top_level.txt
